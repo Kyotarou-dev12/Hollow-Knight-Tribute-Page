@@ -13,5 +13,5 @@ Este é um projeto de front-end inspirado no universo de Hollow Knight. A propos
 
 Projeto feito como parte do meu portfólio front-end, destacando domínio de estrutura HTML e estilização avançada com CSS.
 
-projeto online: 
+projeto online: https://hollow-knight-tribute-page-html-css.vercel.app
 review do projeto: [review](https://github.com/Kyotarou-dev12/Hollow-Knight-Tribute-Page---HTML-CSS/blob/main/img/Capturar.PNG?raw=true)
